@@ -2,7 +2,7 @@
 
 **An Intel Wi-Fi Adapter Kernel Extension for macOS, based on the OpenBSD Project.**
 
-## Documentation
+## Documentation 
 
 We highly recommend exploring our documentation before using this Kernel Extension:
 
